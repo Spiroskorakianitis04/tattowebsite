@@ -1,20 +1,155 @@
 {
-  "name": "nouvelle-peau",
-  "version": "1.0.0",
-  "description": "Site pour salon de tatouage Nouvelle Peau à Sainte-Catherine près d'Arras",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Charlotte-Lem/Nouvelle-Peau.git"
-  },
-  "keywords": [],
-  "author": "LC DWeb",
-  "license": "",
-  "bugs": {
-    "url": "https://github.com/Charlotte-Lem/Nouvelle-Peau/issues"
-  },
-  "homepage": "https://github.com/Charlotte-Lem/Nouvelle-Peau#readme"
+  "seo_optimization": {
+    "metadata": {
+      "title": "Needlepoint Tattoo Corfu - Custom Tattoos",
+      "meta_description": "Discover Needlepoint Tattoo Studio in Corfu, offering high-quality custom tattoos . Book your session with our experienced tattoo artists today!",
+      "keywords": [
+        "Needlepoint Tattoo Corfu",
+        "Corfu tattoo studio",
+        "best tattoos Corfu",
+        "custom tattoos Corfu",
+        "Corfu piercings",
+        "Corfu tattoo artists",
+        "tattoo shop Corfu"
+      ],
+      "open_graph": {
+        "og:title": "Needlepoint Tattoo Studio in Corfu - Custom Tattoos & Body Art",
+        "og:description": "Get unique, custom tattoos at Needlepoint Tattoo in Corfu. Our skilled artists specialize in custom designs. Visit us for an unforgettable tattoo experience.",
+        "og:image": "https://www.google.com/maps/place/Needlepoint+Tattooing/@39.6245193,19.9193434,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOYkehOljQGbPQ3uvBDsCB4Ov11S7nUbl900Q88!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOYkehOljQGbPQ3uvBDsCB4Ov11S7nUbl900Q88%3Dw203-h258-k-no!7i1283!8i1634!4m11!1m2!2m1!1sneedlepointtattoo_corfu!3m7!1s0x135b5ddb66efb7f7:0xe083ff6aa6e0d54e!8m2!3d39.6245399!4d19.9193801!10e5!15sChhuZWVkbGVwb2ludCB0YXR0b28gY29yZnVaGiIYbmVlZGxlcG9pbnQgdGF0dG9vIGNvcmZ1kgELdGF0dG9vX3Nob3DgAQA!16s%2Fg%2F11c76mhgyw?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D#",  
+        "og:url": "https://corfutattoo.com/" 
+      },
+      "twitter_card": {
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Needlepoint Tattoo Corfu - Professional Tattoos & Piercings",
+        "twitter:description": "Book your tattoo session at Needlepoint Tattoo Studio in Corfu. Our team offers custom designs.",
+        "twitter:image": "https://www.google.com/maps/place/Needlepoint+Tattooing/@39.6245193,19.9193434,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOYkehOljQGbPQ3uvBDsCB4Ov11S7nUbl900Q88!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOYkehOljQGbPQ3uvBDsCB4Ov11S7nUbl900Q88%3Dw203-h258-k-no!7i1283!8i1634!4m11!1m2!2m1!1sneedlepointtattoo_corfu!3m7!1s0x135b5ddb66efb7f7:0xe083ff6aa6e0d54e!8m2!3d39.6245399!4d19.9193801!10e5!15sChhuZWVkbGVwb2ludCB0YXR0b28gY29yZnVaGiIYbmVlZGxlcG9pbnQgdGF0dG9vIGNvcmZ1kgELdGF0dG9vX3Nob3DgAQA!16s%2Fg%2F11c76mhgyw?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D#"  
+      }
+    },
+    "content": {
+      "headings": [
+        {
+          "h1": "Needlepoint Tattoo Corfu - Custom Tattoos & Piercings"
+        },
+        {
+          "h2": "Why Choose Needlepoint Tattoo Studio in Corfu?"
+        },
+        {
+          "h2": "Our Tattoo Services"
+        },
+        {
+          "h2": "Meet Our Talented Artists"
+        },
+        {
+          "h3": "Custom Tattoos in Corfu"
+        },
+        {
+          "h3": "Piercings and Body Art"
+        },
+        {
+          "h3": "Tattoo Aftercare Instructions"
+        }
+      ],
+      "alt_tags": {
+        "image1": "Tattoo artist at Needlepoint Tattoo Studio in Corfu",
+        "image2": "Custom tattoo design created at Needlepoint Tattoo Corfu",
+        "image3": "Piercing services at Needlepoint Tattoo Studio"
+      },
+      "internal_linking": [
+        {
+          "text": "Meet Our Tattoo Artists",
+          "url": "/about-us"
+        },
+        {
+          "text": "View Our Tattoo Portfolio",
+          "url": "/portfolio"
+        },
+        {
+          "text": "Book Your Appointment",
+          "url": "/contact"
+        }
+      ],
+      "content_quality": "Create blog posts and pages focusing on tattoo styles, tattoo aftercare, and the importance of choosing a professional tattoo studio in Corfu."
+    },
+    "local_seo": {
+      "location_specific_content": {
+        "address": "Needlepoint Tattoo Studio, Corfu, Greece",
+        "local_landmarks": "Located in the heart of Corfu near popular tourist attractions.",
+        "business_hours": {
+          "monday": "11:00 AM - 9:00 PM",
+          "tuesday": "11:00 AM - 9:00 PM",
+          "wednesday": "11:00 AM - 9:00 PM",
+          "thursday": "11:00 AM - 9:00 PM",
+          "friday": "11:00 AM - 9:00 PM",
+          "saturday": "11:00 AM - 6:00 PM",
+          "sunday": "Closed"
+        },
+        "phone_number": "+2661 305422", 
+        "google_maps_link": "https://maps.app.goo.gl/WEWynBHwDu9NMqfY8",  
+        "local_keywords": [
+          "Needlepoint Tattoo Studio near Corfu town",
+          "Corfu tattoo artists",
+          "professional tattoo shop Corfu",
+          "custom tattoo designs in Corfu",
+          "holiday tattoos in Corfu"
+        ]
+      }
+    },
+    "performance": {
+      "page_speed": "Ensure images and media on the site are optimized for fast load times. Minify JavaScript and CSS files.",
+      "browser_caching": "Enable browser caching for faster repeat visits.",
+      "lazy_loading": "Use lazy loading for images on your gallery or portfolio pages to improve initial page load speed."
+    },
+    "sitemap_and_robots": {
+      "sitemap": "Submit a sitemap.xml file to Google and Bing Search Consoles for better crawling.",
+      "robots_txt": {
+        "disallow": "/admin/",
+        "allow": "/"
+      }
+    },
+    "analytics": {
+      "google_analytics": {
+        "tracking_id": "UA-12345678-9", 
+        "enabled": true
+      },
+      "search_console": {
+        "submit_to_google": true,
+        "tracking_performance": true
+      }
+    },
+    "structured_data": {
+      "schema_markup": {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Needlepoint Tattoo Studio Corfu",
+        "description": "Needlepoint Tattoo Studio is a professional tattoo studio in Corfu, offering custom designs and high-quality body art.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPoMuzIHS0p0IB_4JmlnrWbSaQ9jTR4DLyEFcV7=w141-h141-n-k-no-nu", 
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Needlepoint Tattoo Studio",
+          "addressLocality": "Corfu",
+          "addressRegion": "Ionian Islands",
+          "postalCode": "49100",
+          "addressCountry": "GR"
+        },
+        "telephone": "+2661 305422",
+        "priceRange": "$",
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 39.624300,
+          "longitude": 19.922400
+        },
+        "openingHours": "Mo-Sa 11:00-21:00",
+        "sameAs": [
+          "https://www.instagram.com/needlepointtattoo_corfu",
+          "https://www.facebook.com/NeedlepointTattooing/"  
+        ]
+      }
+    },
+    "backlinks": {
+      "link_building": [
+        "Collaborate with Corfu travel blogs, lifestyle influencers, and local directories to get backlinks.",
+        "Submit your studio to local tattoo and artist directories for enhanced visibility."
+      ]
+    }
+  }
 }
