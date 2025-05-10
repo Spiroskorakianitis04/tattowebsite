@@ -289,8 +289,29 @@
 
     })();
 
-   
-    
+    document.addEventListener("DOMContentLoaded", function () {
+        const header = document.querySelector(".s-header");
+        let lastScrollY = window.scrollY;
+
+        window.addEventListener("scroll", () => {
+            if (window.scrollY > lastScrollY) {
+                header.classList.add("scrolled"); // Add class when scrolling down
+            } else {
+                header.classList.remove("scrolled"); // Remove class when scrolling up
+            }
+            lastScrollY = window.scrollY;
+        });
+    });
+
+    document.addEventListener("DOMContentLoaded", function () {
+        const toggleButton = document.querySelector(".header-menu-toggle");
+        const navWrap = document.querySelector(".header-nav-wrap");
+
+        toggleButton.addEventListener("click", function () {
+            navWrap.classList.toggle("is-open");
+            toggleButton.classList.toggle("is-clicked");
+        });
+    });
 
 })(jQuery);
 
